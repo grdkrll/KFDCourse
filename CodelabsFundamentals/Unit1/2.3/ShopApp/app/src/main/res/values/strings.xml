@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <string name="button_label_add_product_main">Add Product</string>
+    <string name="milk">Milk</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="rice">Rice</string>
+    <string name="apples">Apples</string>
+    <string name="cheese">Cheese</string>
+    <string name="choose_shop_location">Choose Shop Location</string>
+</resources>
